@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.passmathart.passgeneratorthor"
+        applicationId "com.passpackfour.passgeneratorsuperman"
         minSdk 26
         targetSdk 32
         versionCode 1

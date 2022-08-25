@@ -60,7 +60,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
-        app:lottie_rawRes="@raw/lottie_meditation"
+        app:lottie_rawRes="@raw/loading"
         tools:visibility="invisible" />
 
     <TextView
@@ -70,7 +70,7 @@
         android:fontFamily="@font/montserrat_black"
         android:gravity="center"
         android:textColor="@color/main_colour_black"
-        android:text="Please wait...be patient.."
+        android:text="Please wait, be patient..."
         android:textSize="15sp"
         app:layout_constraintEnd_toEndOf="@id/lottie_anim_vaiting"
         app:layout_constraintStart_toStartOf="@id/lottie_anim_vaiting"

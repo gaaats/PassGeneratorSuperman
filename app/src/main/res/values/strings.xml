@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Pass Generator Thor</string>
+    <string name="app_name">Pass Generator Superman</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="generate">generate</string>
     <string name="settings_text">settings</string>
-    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
+    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.\n\nSuperman is a superhero who appears in American comic books published by DC Comics. The character was created by writer Jerry Siegel and artist Joe Shuster, and debuted in the comic book Action Comics #1</string>
     <string name="music">music</string>
 
     <string-array name="diff_levels">

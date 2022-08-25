@@ -13,13 +13,13 @@
     <color name="main_colour_">#A7D1D2</color>
     <color name="colour_almost_main">#63898C</color>
 
-    <color name="add_colour_the_most_dark">#033540</color>
+    <color name="add_colour_the_most_dark">#03081C</color>
 
 
     <color name="main_colour_black">#101116</color>
 
-    <color name="add_colour_2">#E0F4F5</color>
-    <color name="add_colour_3_text_btn">#E0F4F5</color>
+    <color name="add_colour_2">#75BDC1</color>
+    <color name="add_colour_3_text_btn">#CAE9EC</color>
 
     <color name="prog_bar_grey">#4C4848</color>
     <color name="prog_bar_end_colour">#F81313</color>

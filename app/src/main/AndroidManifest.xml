@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.passpacksecond.passgeneratorthor">
+    package="com.passpackfour.passgeneratorsuperman">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -13,10 +13,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.PassGeneratorThor"
+        android:theme="@style/Theme.PassGeneratorSuperman"
         tools:targetApi="31">
         <activity
-            android:name="com.passpacksecond.passgeneratorthor.SplashScreenActivity"
+            android:name="com.passpackfour.passgeneratorsuperman.SplashScreenActivity"
             android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
@@ -26,7 +26,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.passpacksecond.passgeneratorthor.MainActivity"
+            android:name="com.passpackfour.passgeneratorsuperman.MainActivity"
             android:exported="true"
             android:screenOrientation="portrait">
 

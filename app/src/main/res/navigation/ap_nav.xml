@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/startFragment"
-        android:name="com.passpacksecond.passgeneratorthor.StartFragment"
+        android:name="com.passpackfour.passgeneratorsuperman.StartFragment"
         android:label="fragment_start"
         tools:layout="@layout/fragment_start" >
         <action
@@ -27,7 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/resultFragment"
-        android:name="com.passpacksecond.passgeneratorthor.ResultFragment"
+        android:name="com.passpackfour.passgeneratorsuperman.ResultFragment"
         android:label="fragment_result"
         tools:layout="@layout/fragment_result" >
         <action
@@ -41,7 +41,7 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.passpacksecond.passgeneratorthor.SettingsFragment"
+        android:name="com.passpackfour.passgeneratorsuperman.SettingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>
